@@ -1,0 +1,47 @@
+# KiCad files to ignore
+
+# Backup and autosave files
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.sch-bak
+*.kicad_sch-bak
+*.kicad_prl-bak
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Output files
+*.net
+*.cmp
+*.dsn
+*.ses
+*.gbr
+*.drl
+*.gtp
+*.gto
+*.gts
+*.gbs
+*.gbo
+*.gbl
+*.gml
+*.gm1
+*.map
+*.wrl
+*.step
+*.zip
+
+# Simulation files
+*.cir
+*.raw
+*.log
+
+# Other generated files
+*-cache.lib
+*-rescue.lib
+*-rescue.dcm
+fp-info-cache
+sym-lib-table
+fp-lib-table
